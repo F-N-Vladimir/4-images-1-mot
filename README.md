@@ -1,5 +1,4 @@
 # 4-images-1-mot
-# 4 Images 1 Mot
 
 Jeu "4 Images 1 Mot" développé en Java avec NetBeans.
 
