@@ -1,0 +1,5 @@
+com\mycompany\images_et_1mot\resources\JakartaEE9Resource.class
+java\sql\connection.class
+com\mycompany\images_et_1mot\JakartaRestConfiguration.class
+com\mycompany\images_et_mots\Connection.class
+com\mycompany\images_et_1mot\Database.class

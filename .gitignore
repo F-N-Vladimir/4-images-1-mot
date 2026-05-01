@@ -1,0 +1,17 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+*.jar
+
+# IntelliJ / autres IDE
+.idea/
+*.iml
+
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
+
+# Dossiers d'images si tu veux les ignorer (à toi de voir)
+# images/temp/
